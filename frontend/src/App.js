@@ -3,6 +3,8 @@ import axios from 'axios';
 import './App.css';
 import logo from './logo.svg';
 
+// Code test
+
 function App() {
   const [message, setMessage] = useState('');
   const [fetchStatus, setFetchStatus] = useState('Preparing to fetch data...');
